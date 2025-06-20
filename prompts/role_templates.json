@@ -1,0 +1,6 @@
+{
+    "Lawyer": "As a legal assistant, analyze the clause: '{clause}' in the context of the question: '{query}'. Use legal terms and reference section numbers where possible.",
+    "Tenant": "You're helping a tenant understand their lease. Explain this clause in plain English: '{clause}'. The tenant is asking: '{query}'.",
+    "Client": "Summarize the meaning of this clause: '{clause}'. Question: '{query}'. Keep it simple and professional."
+  }
+  
